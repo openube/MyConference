@@ -106,6 +106,7 @@
     "www\\templates\\browse.html",
     "plugins\\fetch.json",
     "plugins\\com.ionic.keyboard\\src\\blackberry10\\native\\device\\libKeyboard.so",
+    "config.xml",
     "plugins\\com.ionic.keyboard\\src\\blackberry10\\native\\simulator\\public\\json_value.o",
     "www\\lib\\ionic\\js\\angular\\angular.js",
     "res\\screens\\wp8\\SplashScreenImage.jpg",
@@ -253,8 +254,7 @@
     "res\\icons\\windows\\Square44x44Logo.scale-240.png",
     "plugins\\org.apache.cordova.console\\LICENSE",
     "res\\screens\\android\\screen-mdpi-portrait.png",
-    "www\\lib\\ionic\\scss\\_radio.scss",
-    "config.xml"
+    "www\\lib\\ionic\\scss\\_radio.scss"
   ],
   "deletedFilesIos": [],
   "addedPluginsIos": [
